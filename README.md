@@ -4,7 +4,7 @@ A Todo List app built with React and TailwindCSS. Add tasks, mark them as done, 
 
 ## Live Demo
 
- [View Live App]([link](https://to-do-app-kappa-rose.vercel.app/))
+ [View Live App](https://to-do-app-kappa-rose.vercel.app/)
 
 ## Features
 
